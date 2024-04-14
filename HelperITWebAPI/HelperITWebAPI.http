@@ -1,0 +1,6 @@
+@HelperITWebAPI_HostAddress = http://localhost:5115
+
+GET {{HelperITWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
