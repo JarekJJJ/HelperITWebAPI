@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\HelperIT.Application\HelperIT.Application.csproj" />
     <ProjectReference Include="..\HelperIT.Domain\HelperIT.Domain.csproj" />
   </ItemGroup>
 
